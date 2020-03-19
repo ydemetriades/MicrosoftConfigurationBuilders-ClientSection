@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net4.7.1</TargetFramework>
+    <AssemblyName>Microsoft.Configuration.ConfigutionBuilders.Base.ClientSection</AssemblyName>
+    <RootNamespace>Microsoft.Configuration.ConfigutionBuilders.Base</RootNamespace>
+    <Authors>Yiannis Demetriades</Authors>
+    <Description>Microsoft.Configuration.Builders for ServiceModel Client Section</Description>
+    <Copyright>MIT</Copyright>
+    <PackageLicenseUrl>https://github.com/ydemetriades/MicrosoftConfigurationBuilders-ClientSection</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/ydemetriades/MicrosoftConfigurationBuilders-ClientSection</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ydemetriades/MicrosoftConfigurationBuilders-ClientSection</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Configuration.ConfigurationBuilders.Base" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.ServiceModel" />
+  </ItemGroup>
+
+</Project>
