@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net4.7.1</TargetFramework>
-    <AssemblyName>Microsoft.Configuration.ConfigutionBuilders.Base.ClientSection</AssemblyName>
+    <AssemblyName>Microsoft.Configuration.ConfigurationBuilders.Base.ClientSection</AssemblyName>
     <RootNamespace>Microsoft.Configuration.ConfigutionBuilders.Base</RootNamespace>
     <Authors>Yiannis Demetriades</Authors>
     <Description>Microsoft.Configuration.Builders for ServiceModel Client Section</Description>
@@ -12,8 +12,8 @@
     <PackageProjectUrl>https://github.com/ydemetriades/MicrosoftConfigurationBuilders-ClientSection</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>ConfigutionBuilders.Base.ClientSection</PackageId>
-    <Product>ConfigutionBuilders.Base.ClientSection</Product>
+    <PackageId>ConfigurationBuilders.Base.ClientSection</PackageId>
+    <Product>ConfigurationBuilders.Base.ClientSection</Product>
   </PropertyGroup>
 
   <ItemGroup>
