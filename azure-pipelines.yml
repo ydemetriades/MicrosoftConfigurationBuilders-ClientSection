@@ -53,3 +53,9 @@ steps:
     versioningScheme: 'off'
     allowPackageConflicts: true
 
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(Pipeline.Workspace)'
+    artifact: 'drop'
+    publishLocation: 'pipeline'
+
