@@ -12,6 +12,8 @@
     <PackageProjectUrl>https://github.com/ydemetriades/MicrosoftConfigurationBuilders-ClientSection</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ConfigutionBuilders.Base.ClientSection</PackageId>
+    <Product>ConfigutionBuilders.Base.ClientSection</Product>
   </PropertyGroup>
 
   <ItemGroup>
