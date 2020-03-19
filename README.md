@@ -1,0 +1,2 @@
+# MicrosoftConfigurationBuilders-ClientOptions
+Microsoft.Configuration.Builders for ClientSection Endpoints
